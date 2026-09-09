@@ -1,0 +1,2 @@
+order_id,order_item_id,product_id,seller_id,price,freight_value
+O1,1,P1,S1,100.0,-1.0
